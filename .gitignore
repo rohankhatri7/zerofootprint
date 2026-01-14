@@ -43,5 +43,6 @@ Thumbs.db
 .vscode/
 .idea/
 
-image.png
 docker-compose.yml
+
+.gitignore
